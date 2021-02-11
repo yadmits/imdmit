@@ -1,2 +1,0 @@
-# imdmit
-Designer portfolio
